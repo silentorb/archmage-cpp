@@ -1,4 +1,5 @@
 #include "Version.h"
+#include <boost/regex.hpp>
 
 namespace archmage {
 
